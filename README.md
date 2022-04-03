@@ -5,7 +5,9 @@ This is a Mini Java compiler.
 It contains Lexical and Syntax Analyser using **Lex** and **YACC** with Desktop app using **Python Tkinter**
 
 ## Preview 
-![20220403_115338](https://user-images.githubusercontent.com/62222721/161425608-3b84d845-24ed-4fa1-955f-0af9c7574af3.gif)
+
+https://user-images.githubusercontent.com/62222721/161425734-6862ea2b-0478-479b-ab9c-02cc2de6312c.mp4
+
 
 ## How to Run
 ``` bash
