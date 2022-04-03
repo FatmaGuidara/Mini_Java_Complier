@@ -1,0 +1,17 @@
+class Main{
+    public static void main(String[] args){
+	
+	if(true){
+	    x=5;
+	}else{
+	    y=1;
+	}
+    }
+}
+
+
+
+
+
+
+
